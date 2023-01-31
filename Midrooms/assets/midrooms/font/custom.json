@@ -1,0 +1,38 @@
+{
+	"providers": [
+		{
+			"type": "space",
+			"advances": {
+				" ": -1
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "midrooms:font/heart_half.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["\u0021"]
+		},
+		{
+			"type": "bitmap",
+			"file": "midrooms:font/heart_full.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["\u0022"]
+		},
+		{
+			"type": "bitmap",
+			"file": "midrooms:font/hunger_half.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["\u0023"]
+		},
+		{
+			"type": "bitmap",
+			"file": "midrooms:font/hunger_full.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["\u0024"]
+		}
+	]
+}

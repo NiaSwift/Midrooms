@@ -1,0 +1,59 @@
+{
+	"0.lights.hum": {
+		"sounds": [
+			{
+				"attenuation_distance": 12,
+				"name": "mob/bee/pollinate1",
+				"volume": 0.8
+			},
+			{
+				"attenuation_distance": 12,
+				"name": "mob/bee/pollinate2",
+				"volume": 0.8
+			},
+			{
+				"attenuation_distance": 12,
+				"name": "mob/bee/pollinate3",
+				"volume": 0.8
+			},
+			{
+				"attenuation_distance": 12,
+				"name": "mob/bee/pollinate4",
+				"volume": 0.8
+			}
+		],
+		"subtitle": "Fluorescent Light Hums"
+	},
+	"0.lights.flicker.bell": {
+		"sounds": [
+			"midrooms:0/lights_flicker_bell"
+		],
+		"subtitle": "Fluorescent Light Flickers"
+	},
+	"0.lights.flicker.snare": {
+		"sounds": [
+			"midrooms:0/lights_flicker_snare"
+		],
+		"subtitle": "Fluorescent Light Flickers"
+	},
+	"0.darkrooms.ambience": {
+		"sounds": [
+				"ambient/cave/cave1",
+				"ambient/cave/cave3",
+				"ambient/cave/cave4",
+				"ambient/cave/cave7",
+				"ambient/cave/cave8",
+				"ambient/cave/cave10",
+				"ambient/cave/cave11",
+				"ambient/cave/cave12",
+				"ambient/cave/cave13"
+		],
+		"subtitle": "Eerie Noise"
+	},
+	"0.darkrooms.entity_spawns": {
+		"sounds": [
+				"ambient/cave/cave15"
+		],
+		"subtitle": "§lRUN!"
+	}
+}
