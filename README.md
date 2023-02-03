@@ -1,2 +1,2 @@
 # Midrooms
-Midrooms RP
+Midrooms Resource Pack
